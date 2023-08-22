@@ -9,7 +9,7 @@
 
 BOT_NAME = "KabumScraper"
 FEEDS = {
-    'C:/Users/PC/VsCodeProjects/WebScrappingProj/.venv/KabumScraper/KabumData.json' : {'format' : 'json', 'overwrite' : True}
+    'C:/Users/PC/VsCodeProjects/KabumScrapping/.venv/KabumScraper/KabumData.json' : {'format' : 'json', 'overwrite' : True}
 }
 SPIDER_MODULES = ["KabumScraper.spiders"]
 NEWSPIDER_MODULE = "KabumScraper.spiders"
